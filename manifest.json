@@ -1,0 +1,10 @@
+{
+  "name": "Academic Proofread Studio",
+  "short_name": "APS",
+  "description": "Academic proofreading, manuscript readiness, tracking, invoice, receipt, and report platform by Dr. Joko Slamet.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071323",
+  "theme_color": "#d6ad55",
+  "icons": []
+}
